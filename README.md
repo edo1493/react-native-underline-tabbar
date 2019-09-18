@@ -13,7 +13,7 @@ In a new version there was significant improvement of tabbar behaviour.
 
 Please attach video or gif to PR's and issues it is super helpful.
 
-## Installation
+## Instalation
 ```
 npm install react-native-underline-tabbar --save
 Or using Yarn
@@ -37,7 +37,6 @@ yarn add react-native-underline-tabbar
 | `tabBadgeColor`       | `string` | `{}` | Set a common color for all badges. To set badgeColor individually use `badgeColor` in `tab` property |
 | `tabMargin`       | `number` | `20` | Set space between tabs |
 | `tabStyles`       | ``` { tab?: Object, badgeBubble?: Object, badgeText?: Object }``` | ``` { tab: {}, badgeBubble: {}, badgeText: {} }``` | Set styles for every tab and bubble |
-| `scrollContainerStyle`       | `Object` | `{}` | Set styles for the scroll container |
 
 
 ## Simple Usage
